@@ -15,7 +15,7 @@ namespace Mayank_Sample.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "My First GIT Hub Changes.";
 
             return View();
         }
